@@ -1,0 +1,13 @@
+{
+  "name": "taskmaster-pro",
+  "version": "1.0.0",
+  "description": "Next-Gen Todo and Kanban Web Application",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["todo", "kanban", "productivity", "pomodoro"],
+  "author": "",
+  "license": "MIT"
+}
